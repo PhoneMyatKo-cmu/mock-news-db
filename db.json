@@ -1,94 +1,72 @@
-{
-  "news": [
-    {
-      "id": 1,
-      "topic": "City Introduces New Bike Lanes",
-      "details": "The local government has installed new bike lanes to promote eco-friendly transportation.",
-      "reporter": "Alice Johnson",
-      "datetime": "2025-08-01T09:15:00Z",
-      "image": "https://bicyclenetwork.com.au/wp-content/uploads/2023/04/NCY-lanes-socials.png",
-      "fakeVoteCount": 2,
-      "verifiedVoteCount": 45,
-      "comments": [
-        {"commentor": "John", "comment": "Great initiative!", "date": "16/8/2025"},
-        {"commentor": "Emma", "comment": "Finally, safer cycling routes.", "date": "16/8/2025"},
-        {"commentor": "Lucas", "comment": "Hope they expand to other areas.", "date": "16/8/2025"},
-        {"commentor": "Sophia", "comment": "This will reduce traffic.", "date": "16/8/2025"},
-        {"commentor": "Liam", "comment": "Cyclists will love this.", "date": "16/8/2025"},
-        {"commentor": "Olivia", "comment": "Good for the environment!", "date": "16/8/2025"}
-      ]
-    },
-    {
-      "id": 2,
-      "topic": "Chocolate Shortage Expected Worldwide",
-      "details": "Experts warn of a possible global chocolate shortage due to poor cocoa harvests.",
-      "reporter": "Michael Lee",
-      "datetime": "2025-07-29T14:20:00Z",
-      "image": "https://www.eatthis.com/wp-content/uploads/sites/4/2023/03/chocolate-bar-foil.jpg",
-      "fakeVoteCount": 5,
-      "verifiedVoteCount": 12,
-      "comments": [
-        {"commentor": "Mia", "comment": "Say it isn't so!", "date": "16/8/2025"},
-        {"commentor": "Noah", "comment": "Stocking up now.", "date": "16/8/2025"},
-        {"commentor": "Ella", "comment": "This is serious!", "date": "16/8/2025"},
-        {"commentor": "James", "comment": "Chocolate lovers will panic.", "date": "16/8/2025"},
-        {"commentor": "Ava", "comment": "Hope prices don’t skyrocket.", "date": "16/8/2025"},
-        {"commentor": "Daniel", "comment": "Time to try alternatives.", "date": "16/8/2025"}
-      ]
-    },
-    {
-      "id": 3,
-      "topic": "Celebrity Adopts 5 Rescue Dogs",
-      "details": "A famous actor has adopted five rescue dogs from a local shelter.",
-      "reporter": "Sarah Kim",
-      "datetime": "2025-08-10T11:45:00Z",
-      "image": "https://www.pawsupdogs.com/wp-content/uploads/2019/03/five-dogs.jpg",
-      "fakeVoteCount": 0,
-      "verifiedVoteCount": 88,
-      "comments": [
-        {"commentor": "Isabella", "comment": "That's amazing!", "date": "16/8/2025"},
-        {"commentor": "Mason", "comment": "More celebrities should do this.", "date": "16/8/2025"},
-        {"commentor": "Amelia", "comment": "Love this gesture.", "date": "16/8/2025"},
-        {"commentor": "Henry", "comment": "Dogs deserve good homes.", "date": "16/8/2025"},
-        {"commentor": "Grace", "comment": "So heartwarming.", "date": "16/8/2025"},
-        {"commentor": "Jacob", "comment": "Respect for this actor.", "date": "16/8/2025"}
-      ]
-    },
-    {
-      "id": 4,
-      "topic": "Alien Ship Spotted Over City",
-      "details": "Multiple witnesses claim to have seen a UFO hovering over the downtown area.",
-      "reporter": "Tom Reynolds",
-      "datetime": "2025-08-12T21:30:00Z",
-      "image": "https://img.freepik.com/premium-photo/alien-ship-flies-modern-city-with-view-skyscrapers-visible-background_124507-157671.jpg",
-      "fakeVoteCount": 73,
-      "verifiedVoteCount": 4,
-      "comments": [
-        {"commentor": "Ethan", "comment": "No way that's real.", "date": "16/8/2025"},
-        {"commentor": "Harper", "comment": "Photoshop strikes again.", "date": "16/8/2025"},
-        {"commentor": "Alexander", "comment": "Looks fake to me.", "date": "16/8/2025"},
-        {"commentor": "Sofia", "comment": "Classic UFO hoax.", "date": "16/8/2025"},
-        {"commentor": "Jack", "comment": "Where’s the evidence?", "date": "16/8/2025"},
-        {"commentor": "Emily", "comment": "Not convinced at all.", "date": "16/8/2025"}
-      ]
-    },
-    {
-      "id": 5,
-      "topic": "New Smartphone Breaks Sales Records",
-      "details": "The latest smartphone release has sold over 2 million units in 24 hours.",
-      "reporter": "Emily Carter",
-      "datetime": "2025-08-05T10:05:00Z",
-      "image": "https://m-cdn.phonearena.com/images/article/152814-wide-two_1200/Global-smartphone-sales-return-to-growth-in-October-breaking-two-year-losing-streak.jpg?1700647090",
-      "fakeVoteCount": 1,
-      "verifiedVoteCount": 54,
-      "comments": [
-        {"commentor": "Benjamin", "comment": "I got one!", "date": "16/8/2025"},
-        {"commentor": "Chloe", "comment": "Best phone I've used.", "date": "16/8/2025"},
-        {"commentor": "Leo", "comment": "Impressive sales.", "date": "16/8/2025"},
-        {"commentor": "Lily", "comment": "I need to upgrade.", "date": "16/8/2025"},
-        {"commentor": "Matthew", "comment": "Looks sleek.", "date": "16/8/2025"},
-        {"commentor": "Zoe", "comment": "Can’t wait to try it.", "date": "16/8/2025"}
-      ]
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "newsId": 1,
+    "commenter": "Alice",
+    "date": "2025-08-01",
+    "comment": "Interesting perspective! I didn’t think of it this way."
+  },
+  {
+    "id": 2,
+    "newsId": 1,
+    "commenter": "Bob",
+    "date": "2025-08-02",
+    "comment": "I agree with some parts, but not everything."
+  },
+  {
+    "id": 3,
+    "newsId": 2,
+    "commenter": "Charlie",
+    "date": "2025-08-02",
+    "comment": "This seems like misinformation. Any sources?"
+  },
+  {
+    "id": 4,
+    "newsId": 3,
+    "commenter": "Diana",
+    "date": "2025-08-03",
+    "comment": "I was actually there when this happened, can confirm."
+  },
+  {
+    "id": 5,
+    "newsId": 3,
+    "commenter": "Ethan",
+    "date": "2025-08-04",
+    "comment": "The article missed some important details."
+  },
+  {
+    "id": 6,
+    "newsId": 4,
+    "commenter": "Fiona",
+    "date": "2025-08-05",
+    "comment": "Solid reporting, thanks for sharing!"
+  },
+  {
+    "id": 7,
+    "newsId": 5,
+    "commenter": "George",
+    "date": "2025-08-05",
+    "comment": "This is very concerning if true."
+  },
+  {
+    "id": 8,
+    "newsId": 6,
+    "commenter": "Hannah",
+    "date": "2025-08-06",
+    "comment": "I feel like this is being exaggerated."
+  },
+  {
+    "id": 9,
+    "newsId": 7,
+    "commenter": "Ivan",
+    "date": "2025-08-07",
+    "comment": "Can someone fact-check this? Seems sketchy."
+  },
+  {
+    "id": 10,
+    "newsId": 8,
+    "commenter": "Judy",
+    "date": "2025-08-08",
+    "comment": "I learned something new today!"
+  }
+]
