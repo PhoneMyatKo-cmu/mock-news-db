@@ -1,5 +1,7 @@
 [
   {
+  news:[
+  {
     "id": 1,
     "newsId": 1,
     "commenter": "Alice",
@@ -70,3 +72,4 @@
     "comment": "I learned something new today!"
   }
 ]
+}
