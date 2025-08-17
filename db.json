@@ -1,6 +1,4 @@
-
-  {
-  "news":[
+[
   {
     "id": 1,
     "newsId": 1,
@@ -17,60 +15,697 @@
   },
   {
     "id": 3,
-    "newsId": 2,
-    "commenter": "Charlie",
-    "date": "2025-08-02",
-    "comment": "This seems like misinformation. Any sources?"
+    "newsId": 1,
+    "commenter": "Cathy",
+    "date": "2025-08-03",
+    "comment": "Can someone explain this further?"
   },
   {
     "id": 4,
-    "newsId": 3,
-    "commenter": "Diana",
-    "date": "2025-08-03",
-    "comment": "I was actually there when this happened, can confirm."
+    "newsId": 1,
+    "commenter": "David",
+    "date": "2025-08-04",
+    "comment": "The analysis is solid, thanks!"
   },
   {
     "id": 5,
-    "newsId": 3,
-    "commenter": "Ethan",
-    "date": "2025-08-04",
-    "comment": "The article missed some important details."
+    "newsId": 1,
+    "commenter": "Elena",
+    "date": "2025-08-05",
+    "comment": "Are there any follow-ups on this news?"
   },
   {
     "id": 6,
-    "newsId": 4,
-    "commenter": "Fiona",
-    "date": "2025-08-05",
-    "comment": "Solid reporting, thanks for sharing!"
+    "newsId": 1,
+    "commenter": "Frank",
+    "date": "2025-08-06",
+    "comment": "Why isn’t this more widely reported?"
   },
   {
     "id": 7,
+    "newsId": 1,
+    "commenter": "Grace",
+    "date": "2025-08-07",
+    "comment": "I’m skeptical but open to discussion."
+  },
+  {
+    "id": 8,
+    "newsId": 1,
+    "commenter": "Helen",
+    "date": "2025-08-08",
+    "comment": "Would love to hear experts on this topic."
+  },
+  {
+    "id": 9,
+    "newsId": 1,
+    "commenter": "Ian",
+    "date": "2025-08-09",
+    "comment": "This will have major consequences!"
+  },
+  {
+    "id": 10,
+    "newsId": 1,
+    "commenter": "Julia",
+    "date": "2025-08-10",
+    "comment": "Does anyone have sources to verify?"
+  },
+
+  {
+    "id": 11,
+    "newsId": 2,
+    "commenter": "Kim",
+    "date": "2025-08-01",
+    "comment": "I saw something similar recently."
+  },
+  {
+    "id": 12,
+    "newsId": 2,
+    "commenter": "Leo",
+    "date": "2025-08-02",
+    "comment": "Sounds plausible, but more detail needed."
+  },
+  {
+    "id": 13,
+    "newsId": 2,
+    "commenter": "Mona",
+    "date": "2025-08-03",
+    "comment": "Who are the sources for this article?"
+  },
+  {
+    "id": 14,
+    "newsId": 2,
+    "commenter": "Nathan",
+    "date": "2025-08-04",
+    "comment": "Is there a video link?"
+  },
+  {
+    "id": 15,
+    "newsId": 2,
+    "commenter": "Olive",
+    "date": "2025-08-05",
+    "comment": "Did this affect the local community?"
+  },
+  {
+    "id": 16,
+    "newsId": 2,
+    "commenter": "Pete",
+    "date": "2025-08-06",
+    "comment": "Thanks for sharing this news!"
+  },
+  {
+    "id": 17,
+    "newsId": 2,
+    "commenter": "Quinn",
+    "date": "2025-08-07",
+    "comment": "Let’s see how things develop."
+  },
+  {
+    "id": 18,
+    "newsId": 2,
+    "commenter": "Rita",
+    "date": "2025-08-08",
+    "comment": "This seems important."
+  },
+  {
+    "id": 19,
+    "newsId": 2,
+    "commenter": "Sam",
+    "date": "2025-08-09",
+    "comment": "Was anyone hurt?"
+  },
+  {
+    "id": 20,
+    "newsId": 2,
+    "commenter": "Tina",
+    "date": "2025-08-10",
+    "comment": "The article could elaborate more."
+  },
+
+  {
+    "id": 21,
+    "newsId": 3,
+    "commenter": "Uma",
+    "date": "2025-08-01",
+    "comment": "This event made headlines everywhere."
+  },
+  {
+    "id": 22,
+    "newsId": 3,
+    "commenter": "Victor",
+    "date": "2025-08-02",
+    "comment": "Why aren’t more people talking about this?"
+  },
+  {
+    "id": 23,
+    "newsId": 3,
+    "commenter": "Wendy",
+    "date": "2025-08-03",
+    "comment": "Are the numbers correct?"
+  },
+  {
+    "id": 24,
+    "newsId": 3,
+    "commenter": "Xander",
+    "date": "2025-08-04",
+    "comment": "Where did this take place?"
+  },
+  {
+    "id": 25,
+    "newsId": 3,
+    "commenter": "Yara",
+    "date": "2025-08-05",
+    "comment": "I remember seeing it live."
+  },
+  {
+    "id": 26,
+    "newsId": 3,
+    "commenter": "Zane",
+    "date": "2025-08-06",
+    "comment": "Unbelievable story!"
+  },
+  {
+    "id": 27,
+    "newsId": 3,
+    "commenter": "Ava",
+    "date": "2025-08-07",
+    "comment": "People need to be more aware."
+  },
+  {
+    "id": 28,
+    "newsId": 3,
+    "commenter": "Ben",
+    "date": "2025-08-08",
+    "comment": "The article missed some key points."
+  },
+  {
+    "id": 29,
+    "newsId": 3,
+    "commenter": "Cara",
+    "date": "2025-08-09",
+    "comment": "This should be fact-checked."
+  },
+  {
+    "id": 30,
+    "newsId": 3,
+    "commenter": "Daniel",
+    "date": "2025-08-10",
+    "comment": "Can anyone confirm the details?"
+  },
+
+  {
+    "id": 31,
+    "newsId": 4,
+    "commenter": "Eva",
+    "date": "2025-08-01",
+    "comment": "Great coverage, I appreciate the thoroughness."
+  },
+  {
+    "id": 32,
+    "newsId": 4,
+    "commenter": "Felix",
+    "date": "2025-08-02",
+    "comment": "Good job reporting this!"
+  },
+  {
+    "id": 33,
+    "newsId": 4,
+    "commenter": "Gina",
+    "date": "2025-08-03",
+    "comment": "Is more information available?"
+  },
+  {
+    "id": 34,
+    "newsId": 4,
+    "commenter": "Hector",
+    "date": "2025-08-04",
+    "comment": "Follow-up article needed, please."
+  },
+  {
+    "id": 35,
+    "newsId": 4,
+    "commenter": "Ivy",
+    "date": "2025-08-05",
+    "comment": "Any eyewitnesses?"
+  },
+  {
+    "id": 36,
+    "newsId": 4,
+    "commenter": "Jack",
+    "date": "2025-08-06",
+    "comment": "Well-written piece."
+  },
+  {
+    "id": 37,
+    "newsId": 4,
+    "commenter": "Kara",
+    "date": "2025-08-07",
+    "comment": "Not sure I believe everything here."
+  },
+  {
+    "id": 38,
+    "newsId": 4,
+    "commenter": "Louis",
+    "date": "2025-08-08",
+    "comment": "Please provide more background."
+  },
+  {
+    "id": 39,
+    "newsId": 4,
+    "commenter": "Mia",
+    "date": "2025-08-09",
+    "comment": "This could be big news!"
+  },
+  {
+    "id": 40,
+    "newsId": 4,
+    "commenter": "Noah",
+    "date": "2025-08-10",
+    "comment": "Verified facts would help."
+  },
+
+  {
+    "id": 41,
     "newsId": 5,
-    "commenter": "George",
+    "commenter": "Olga",
+    "date": "2025-08-01",
+    "comment": "Startling revelation!"
+  },
+  {
+    "id": 42,
+    "newsId": 5,
+    "commenter": "Paul",
+    "date": "2025-08-02",
+    "comment": "I’m intrigued, tell me more."
+  },
+  {
+    "id": 43,
+    "newsId": 5,
+    "commenter": "Quincy",
+    "date": "2025-08-03",
+    "comment": "Needs more accurate reporting."
+  },
+  {
+    "id": 44,
+    "newsId": 5,
+    "commenter": "Renee",
+    "date": "2025-08-04",
+    "comment": "Any expert opinions included?"
+  },
+  {
+    "id": 45,
+    "newsId": 5,
+    "commenter": "Steve",
     "date": "2025-08-05",
     "comment": "This is very concerning if true."
   },
   {
-    "id": 8,
-    "newsId": 6,
-    "commenter": "Hannah",
+    "id": 46,
+    "newsId": 5,
+    "commenter": "Tara",
     "date": "2025-08-06",
+    "comment": "Has anyone checked with authorities?"
+  },
+  {
+    "id": 47,
+    "newsId": 5,
+    "commenter": "Umar",
+    "date": "2025-08-07",
+    "comment": "How credible is this report?"
+  },
+  {
+    "id": 48,
+    "newsId": 5,
+    "commenter": "Vera",
+    "date": "2025-08-08",
+    "comment": "A lot to unpack here!"
+  },
+  {
+    "id": 49,
+    "newsId": 5,
+    "commenter": "Will",
+    "date": "2025-08-09",
+    "comment": "Some details seem missing."
+  },
+  {
+    "id": 50,
+    "newsId": 5,
+    "commenter": "Xena",
+    "date": "2025-08-10",
+    "comment": "Let’s keep an eye out for updates."
+  },
+
+  {
+    "id": 51,
+    "newsId": 6,
+    "commenter": "Yasir",
+    "date": "2025-08-01",
     "comment": "I feel like this is being exaggerated."
   },
   {
-    "id": 9,
-    "newsId": 7,
-    "commenter": "Ivan",
+    "id": 52,
+    "newsId": 6,
+    "commenter": "Zoe",
+    "date": "2025-08-02",
+    "comment": "Who benefits from this story?"
+  },
+  {
+    "id": 53,
+    "newsId": 6,
+    "commenter": "Aiden",
+    "date": "2025-08-03",
+    "comment": "Do we have more context?"
+  },
+  {
+    "id": 54,
+    "newsId": 6,
+    "commenter": "Bella",
+    "date": "2025-08-04",
+    "comment": "Hard to believe at first."
+  },
+  {
+    "id": 55,
+    "newsId": 6,
+    "commenter": "Colin",
+    "date": "2025-08-05",
+    "comment": "Please clarify this news!"
+  },
+  {
+    "id": 56,
+    "newsId": 6,
+    "commenter": "Daisy",
+    "date": "2025-08-06",
+    "comment": "Exaggeration or facts?"
+  },
+  {
+    "id": 57,
+    "newsId": 6,
+    "commenter": "Edward",
     "date": "2025-08-07",
+    "comment": "Looking for more balanced coverage."
+  },
+  {
+    "id": 58,
+    "newsId": 6,
+    "commenter": "Fay",
+    "date": "2025-08-08",
+    "comment": "Needs more data."
+  },
+  {
+    "id": 59,
+    "newsId": 6,
+    "commenter": "Gavin",
+    "date": "2025-08-09",
+    "comment": "Is the reporting objective?"
+  },
+  {
+    "id": 60,
+    "newsId": 6,
+    "commenter": "Hazel",
+    "date": "2025-08-10",
+    "comment": "Hope for more updates."
+  },
+
+  {
+    "id": 61,
+    "newsId": 7,
+    "commenter": "Ian",
+    "date": "2025-08-01",
     "comment": "Can someone fact-check this? Seems sketchy."
   },
   {
-    "id": 10,
-    "newsId": 8,
-    "commenter": "Judy",
+    "id": 62,
+    "newsId": 7,
+    "commenter": "Jane",
+    "date": "2025-08-02",
+    "comment": "I feel unsettled by these claims."
+  },
+  {
+    "id": 63,
+    "newsId": 7,
+    "commenter": "Kelly",
+    "date": "2025-08-03",
+    "comment": "Sources are needed!"
+  },
+  {
+    "id": 64,
+    "newsId": 7,
+    "commenter": "Leon",
+    "date": "2025-08-04",
+    "comment": "Not convinced, needs fact check."
+  },
+  {
+    "id": 65,
+    "newsId": 7,
+    "commenter": "Mandy",
+    "date": "2025-08-05",
+    "comment": "Hope it’s not fake news."
+  },
+  {
+    "id": 66,
+    "newsId": 7,
+    "commenter": "Noel",
+    "date": "2025-08-06",
+    "comment": "Reliable outlets should cover this."
+  },
+  {
+    "id": 67,
+    "newsId": 7,
+    "commenter": "Oscar",
+    "date": "2025-08-07",
+    "comment": "A second opinion would be good."
+  },
+  {
+    "id": 68,
+    "newsId": 7,
+    "commenter": "Paula",
     "date": "2025-08-08",
+    "comment": "Verify before sharing!"
+  },
+  {
+    "id": 69,
+    "newsId": 7,
+    "commenter": "Quentin",
+    "date": "2025-08-09",
+    "comment": "The claims are hard to believe."
+  },
+  {
+    "id": 70,
+    "newsId": 7,
+    "commenter": "Rhea",
+    "date": "2025-08-10",
+    "comment": "Let’s see updates soon."
+  },
+
+  {
+    "id": 71,
+    "newsId": 8,
+    "commenter": "Sam",
+    "date": "2025-08-01",
     "comment": "I learned something new today!"
+  },
+  {
+    "id": 72,
+    "newsId": 8,
+    "commenter": "Tina",
+    "date": "2025-08-02",
+    "comment": "This article was helpful."
+  },
+  {
+    "id": 73,
+    "newsId": 8,
+    "commenter": "Uma",
+    "date": "2025-08-03",
+    "comment": "The information is well presented."
+  },
+  {
+    "id": 74,
+    "newsId": 8,
+    "commenter": "Val",
+    "date": "2025-08-04",
+    "comment": "Detailed coverage, thanks!"
+  },
+  {
+    "id": 75,
+    "newsId": 8,
+    "commenter": "Walt",
+    "date": "2025-08-05",
+    "comment": "Clear explanations given."
+  },
+  {
+    "id": 76,
+    "newsId": 8,
+    "commenter": "Xandra",
+    "date": "2025-08-06",
+    "comment": "Good to know this."
+  },
+  {
+    "id": 77,
+    "newsId": 8,
+    "commenter": "Yan",
+    "date": "2025-08-07",
+    "comment": "Appreciate the insight!"
+  },
+  {
+    "id": 78,
+    "newsId": 8,
+    "commenter": "Zuri",
+    "date": "2025-08-08",
+    "comment": "Hope for more like this."
+  },
+  {
+    "id": 79,
+    "newsId": 8,
+    "commenter": "Angela",
+    "date": "2025-08-09",
+    "comment": "The points make sense."
+  },
+  {
+    "id": 80,
+    "newsId": 8,
+    "commenter": "Bryce",
+    "date": "2025-08-10",
+    "comment": "Good write-up."
+  },
+
+  {
+    "id": 81,
+    "newsId": 9,
+    "commenter": "Claire",
+    "date": "2025-08-01",
+    "comment": "Unique take on current events."
+  },
+  {
+    "id": 82,
+    "newsId": 9,
+    "commenter": "Derek",
+    "date": "2025-08-02",
+    "comment": "Lots to consider here."
+  },
+  {
+    "id": 83,
+    "newsId": 9,
+    "commenter": "Eve",
+    "date": "2025-08-03",
+    "comment": "Who funded the research?"
+  },
+  {
+    "id": 84,
+    "newsId": 9,
+    "commenter": "Fred",
+    "date": "2025-08-04",
+    "comment": "Can someone summarise?"
+  },
+  {
+    "id": 85,
+    "newsId": 9,
+    "commenter": "Gina",
+    "date": "2025-08-05",
+    "comment": "Not sure about the conclusion."
+  },
+  {
+    "id": 86,
+    "newsId": 9,
+    "commenter": "Hank",
+    "date": "2025-08-06",
+    "comment": "Related stories would be nice."
+  },
+  {
+    "id": 87,
+    "newsId": 9,
+    "commenter": "Iman",
+    "date": "2025-08-07",
+    "comment": "Background context helps."
+  },
+  {
+    "id": 88,
+    "newsId": 9,
+    "commenter": "June",
+    "date": "2025-08-08",
+    "comment": "This deserves more attention."
+  },
+  {
+    "id": 89,
+    "newsId": 9,
+    "commenter": "Karl",
+    "date": "2025-08-09",
+    "comment": "Any updates since published?"
+  },
+  {
+    "id": 90,
+    "newsId": 9,
+    "commenter": "Leah",
+    "date": "2025-08-10",
+    "comment": "Article was succinct."
+  },
+
+  {
+    "id": 91,
+    "newsId": 10,
+    "commenter": "Mark",
+    "date": "2025-08-01",
+    "comment": "Impressive reporting."
+  },
+  {
+    "id": 92,
+    "newsId": 10,
+    "commenter": "Nina",
+    "date": "2025-08-02",
+    "comment": "Sources are credible."
+  },
+  {
+    "id": 93,
+    "newsId": 10,
+    "commenter": "Omar",
+    "date": "2025-08-03",
+    "comment": "Looking forward to follow-up."
+  },
+  {
+    "id": 94,
+    "newsId": 10,
+    "commenter": "Penny",
+    "date": "2025-08-04",
+    "comment": "Strong write-up, thanks!"
+  },
+  {
+    "id": 95,
+    "newsId": 10,
+    "commenter": "Qadir",
+    "date": "2025-08-05",
+    "comment": "Very informative."
+  },
+  {
+    "id": 96,
+    "newsId": 10,
+    "commenter": "Rita",
+    "date": "2025-08-06",
+    "comment": "Was this peer-reviewed?"
+  },
+  {
+    "id": 97,
+    "newsId": 10,
+    "commenter": "Sanjay",
+    "date": "2025-08-07",
+    "comment": "Trustworthy journalism."
+  },
+  {
+    "id": 98,
+    "newsId": 10,
+    "commenter": "Tammy",
+    "date": "2025-08-08",
+    "comment": "Impressed with details."
+  },
+  {
+    "id": 99,
+    "newsId": 10,
+    "commenter": "Usha",
+    "date": "2025-08-09",
+    "comment": "The coverage is timely."
+  },
+  {
+    "id": 100,
+    "newsId": 10,
+    "commenter": "Victor",
+    "date": "2025-08-10",
+    "comment": "Looking forward to new updates."
   }
 ]
-}
-
