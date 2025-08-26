@@ -707,5 +707,355 @@
     "commenter": "Victor",
     "date": "2025-08-10",
     "comment": "Looking forward to new updates."
-  }
+  },
+  {
+"id": 101,
+"newsId": 11,
+"commenter": "Willa",
+"date": "2025-08-01",
+"comment": "Can’t believe this happened. Thanks for sharing!"
+},
+{
+"id": 102,
+"newsId": 11,
+"commenter": "Xavier",
+"date": "2025-08-02",
+"comment": "I have more questions after reading this."
+},
+{
+"id": 103,
+"newsId": 11,
+"commenter": "Yvonne",
+"date": "2025-08-03",
+"comment": "Does anyone know where to find more info?"
+},
+{
+"id": 104,
+"newsId": 11,
+"commenter": "Zach",
+"date": "2025-08-04",
+"comment": "This will definitely change the narrative."
+},
+{
+"id": 105,
+"newsId": 11,
+"commenter": "Amber",
+"date": "2025-08-05",
+"comment": "Looking forward to expert analysis."
+},
+{
+"id": 106,
+"newsId": 12,
+"commenter": "Brad",
+"date": "2025-08-01",
+"comment": "Interesting, but is there any proof?"
+},
+{
+"id": 107,
+"newsId": 12,
+"commenter": "Cara",
+"date": "2025-08-02",
+"comment": "Could this have been prevented?"
+},
+{
+"id": 108,
+"newsId": 12,
+"commenter": "Dylan",
+"date": "2025-08-03",
+"comment": "I hope the consequences aren’t too severe."
+},
+{
+"id": 109,
+"newsId": 12,
+"commenter": "Eva",
+"date": "2025-08-04",
+"comment": "Great insight here, thanks for sharing."
+},
+{
+"id": 110,
+"newsId": 12,
+"commenter": "Finn",
+"date": "2025-08-05",
+"comment": "More details would be helpful."
+},
+{
+"id": 111,
+"newsId": 13,
+"commenter": "Gwen",
+"date": "2025-08-01",
+"comment": "This is getting a lot of attention, rightly so."
+},
+{
+"id": 112,
+"newsId": 13,
+"commenter": "Harry",
+"date": "2025-08-02",
+"comment": "Who else is covering this story?"
+},
+{
+"id": 113,
+"newsId": 13,
+"commenter": "Isla",
+"date": "2025-08-03",
+"comment": "Clear and concise reporting. Thanks!"
+},
+{
+"id": 114,
+"newsId": 13,
+"commenter": "Jake",
+"date": "2025-08-04",
+"comment": "Can anyone share verified sources?"
+},
+{
+"id": 115,
+"newsId": 13,
+"commenter": "Kylie",
+"date": "2025-08-05",
+"comment": "I hope this news leads to some changes."
+},
+{
+"id": 116,
+"newsId": 14,
+"commenter": "Liam",
+"date": "2025-08-01",
+"comment": "Could this affect other regions too?"
+},
+{
+"id": 117,
+"newsId": 14,
+"commenter": "Mia",
+"date": "2025-08-02",
+"comment": "This is more impactful than I thought."
+},
+{
+"id": 118,
+"newsId": 14,
+"commenter": "Noah",
+"date": "2025-08-03",
+"comment": "Waiting on official statements."
+},
+{
+"id": 119,
+"newsId": 14,
+"commenter": "Olivia",
+"date": "2025-08-04",
+"comment": "Does this impact public safety?"
+},
+{
+"id": 120,
+"newsId": 14,
+"commenter": "Paul",
+"date": "2025-08-05",
+"comment": "Thanks for keeping us informed."
+},
+{
+"id": 121,
+"newsId": 15,
+"commenter": "Quinn",
+"date": "2025-08-01",
+"comment": "This story hasn’t gotten the attention it deserves."
+},
+{
+"id": 122,
+"newsId": 15,
+"commenter": "Rosa",
+"date": "2025-08-02",
+"comment": "How are local communities responding?"
+},
+{
+"id": 123,
+"newsId": 15,
+"commenter": "Steve",
+"date": "2025-08-03",
+"comment": "Could be a major topic soon."
+},
+{
+"id": 124,
+"newsId": 15,
+"commenter": "Tina",
+"date": "2025-08-04",
+"comment": "Need more information to understand fully."
+},
+{
+"id": 125,
+"newsId": 15,
+"commenter": "Umar",
+"date": "2025-08-05",
+"comment": "Thanks for the comprehensive report."
+},
+{
+"id": 126,
+"newsId": 16,
+"commenter": "Vera",
+"date": "2025-08-01",
+"comment": "This could influence policy decisions."
+},
+{
+"id": 127,
+"newsId": 16,
+"commenter": "Will",
+"date": "2025-08-02",
+"comment": "More updates appreciated as this develops."
+},
+{
+"id": 128,
+"newsId": 16,
+"commenter": "Xena",
+"date": "2025-08-03",
+"comment": "Great news coverage here."
+},
+{
+"id": 129,
+"newsId": 16,
+"commenter": "Yasir",
+"date": "2025-08-04",
+"comment": "This topic is quite complex."
+},
+{
+"id": 130,
+"newsId": 16,
+"commenter": "Zoe",
+"date": "2025-08-05",
+"comment": "Looking forward to expert insights."
+},
+{
+"id": 131,
+"newsId": 17,
+"commenter": "Aiden",
+"date": "2025-08-01",
+"comment": "Interesting viewpoint; I wonder about the data."
+},
+{
+"id": 132,
+"newsId": 17,
+"commenter": "Bella",
+"date": "2025-08-02",
+"comment": "Still processing this information."
+},
+{
+"id": 133,
+"newsId": 17,
+"commenter": "Colin",
+"date": "2025-08-03",
+"comment": "More coverage would help public understanding."
+},
+{
+"id": 134,
+"newsId": 17,
+"commenter": "Daisy",
+"date": "2025-08-04",
+"comment": "Appreciate this article’s clarity."
+},
+{
+"id": 135,
+"newsId": 17,
+"commenter": "Edward",
+"date": "2025-08-05",
+"comment": "Hope to see continued updates."
+},
+{
+"id": 136,
+"newsId": 18,
+"commenter": "Fay",
+"date": "2025-08-01",
+"comment": "This could change things significantly."
+},
+{
+"id": 137,
+"newsId": 18,
+"commenter": "Gavin",
+"date": "2025-08-02",
+"comment": "More detail would be appreciated."
+},
+{
+"id": 138,
+"newsId": 18,
+"commenter": "Hazel",
+"date": "2025-08-03",
+"comment": "Waiting for official reports."
+},
+{
+"id": 139,
+"newsId": 18,
+"commenter": "Ian",
+"date": "2025-08-04",
+"comment": "Does this affect us long term?"
+},
+{
+"id": 140,
+"newsId": 18,
+"commenter": "Jane",
+"date": "2025-08-05",
+"comment": "Thanks for the useful insights."
+},
+{
+"id": 141,
+"newsId": 19,
+"commenter": "Kelly",
+"date": "2025-08-01",
+"comment": "This story seems underreported."
+},
+{
+"id": 142,
+"newsId": 19,
+"commenter": "Leon",
+"date": "2025-08-02",
+"comment": "Anyone know more about the background?"
+},
+{
+"id": 143,
+"newsId": 19,
+"commenter": "Mandy",
+"date": "2025-08-03",
+"comment": "Hope this gets follow-up investigations."
+},
+{
+"id": 144,
+"newsId": 19,
+"commenter": "Noel",
+"date": "2025-08-04",
+"comment": "Appreciate the transparency here."
+},
+{
+"id": 145,
+"newsId": 19,
+"commenter": "Oscar",
+"date": "2025-08-05",
+"comment": "It’d be great to see expert interviews."
+},
+{
+"id": 146,
+"newsId": 20,
+"commenter": "Paula",
+"date": "2025-08-01",
+"comment": "This summary is very helpful."
+},
+{
+"id": 147,
+"newsId": 20,
+"commenter": "Quentin",
+"date": "2025-08-02",
+"comment": "Thanks for breaking this down."
+},
+{
+"id": 148,
+"newsId": 20,
+"commenter": "Rhea",
+"date": "2025-08-03",
+"comment": "Will follow this topic"
+},
+  {
+"id": 149,
+"newsId": 20,
+"commenter": "Sam",
+"date": "2025-08-04",
+"comment": "Insightful piece, thank you for sharing."
+},
+{
+"id": 150,
+"newsId": 20,
+"commenter": "Tina",
+"date": "2025-08-05",
+"comment": "Would appreciate more follow-ups on this."
+}
 ]
